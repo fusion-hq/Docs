@@ -1,9 +1,8 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 5
 ---
 
-# Tutorial Intro
+# Product Roadmap
 
 Let's discover **Docusaurus in less than 5 minutes**.
 

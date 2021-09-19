@@ -56,6 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
+    
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -103,7 +104,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2021 Fusion`,
       },
       prism: {
         theme: lightCodeTheme,
