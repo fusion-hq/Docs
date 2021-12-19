@@ -5,6 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
   --ifm-color-primary: #1890ff;
   --ifm-color-primary-dark: #0082fb;
@@ -16,12 +17,17 @@
 }
 
 .docusaurus-highlight-code-line {
-  background-color:rgba(8, 22, 39, 1);
+  background-color: rgba(8, 22, 39, 1);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color:rgba(8, 22, 39, 1);
+html[data-theme="dark"] {
+  --ifm-background-color: rgb(13, 17, 23);
+  --ifm-navbar-background-color: rgb(13, 17, 23);
+}
+
+.footer {
+  --ifm-footer-background-color: #081627;
 }
