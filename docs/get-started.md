@@ -25,7 +25,7 @@ Fusion solves all these problems by letting you host out of the box analytics su
 
 Contains all the features Fusion offers and guide of how to use them
 
-Get started here - [User guides](/introduction)
+Get started here - [User guides](/user-guides/overview)
 
 ### Deployment
 
@@ -42,22 +42,12 @@ Start using [Fusion Cloud for free](https://app.fusionhq.co).
 
 Check out our [deployment page](/Deployment/Req).
 
-### Capturing events with PostHog
+### Contributing to Fusion
 
-You can capture events and send data to PostHog in 3 different ways:
+We love open-source community
 
-**Snippet**
-
-Using our [HTML snippet](/docs/integrate/client/snippet-installation) is the quickest way to get started if you're using PostHog to track a website.
-
-You can also start trying PostHog with no code using [our bookmarklet](/docs/integrate/client/snippet-installation#get-started-with-no-code).
-
-### Contributing to PostHog
-
-We love all contributions to PostHog, big or small.
-
-Check out our [contributing docs](/docs/contributing) for information on how to contribute, as well as info about how to [run a local environment](/docs/contribute/developing-locally), what our [stack](/docs/contribute/stack) is, and how the [project is structured](/docs/contribute/project-structure).
+Check out our [contributing docs](/Contributing/req) for contribution guidelines and dev environment setup
 
 ### Platform Architecture
 
-[Platform Architecture](/docs/user-guides/application-settings) hosts information on configuration valid for both cloud and self-hosted instances.
+Fusion's platfrom architecture [Platform Architecture](/architecture)

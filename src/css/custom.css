@@ -23,11 +23,11 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme="dark"] {
-  --ifm-background-color: rgb(13, 17, 23);
-  --ifm-navbar-background-color: rgb(13, 17, 23);
+/* html[data-theme="dark"] {
+  --ifm-background-color: #0d1117;
+  --ifm-navbar-background-color: #081627;
 }
 
 .footer {
   --ifm-footer-background-color: #081627;
-}
+} */

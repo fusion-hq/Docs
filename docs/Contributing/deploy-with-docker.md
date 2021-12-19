@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: /contributing/deploy-with-docker
 ---
 
 # Deploy with Docker
