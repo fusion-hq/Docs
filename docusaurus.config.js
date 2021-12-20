@@ -46,10 +46,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         announcementBar: {
           id: "support_us",
           content:
-            'Star us on <a target="_blank" rel="noopener noreferrer" href="https://github.com/fusion-hq/fusion">GitHub</a>',
+            '🌟  If you like Fusion, give it a star on<a target="_blank" rel="noopener noreferrer" href="https://github.com/fusion-hq/fusion">GitHub</a>🌟',
           backgroundColor: "#1890ff",
-          textColor: "#091E42",
-          isCloseable: true,
+          textColor: "#fff",
+          isCloseable: false,
         },
         navbar: {
           title: "",
