@@ -23,7 +23,12 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-/* html[data-theme="dark"] {
+/* html[data-theme="light"] {
+  --ifm-background-color: #fafaf9;
+  --ifm-navbar-background-color: #fafaf9;
+}
+
+html[data-theme="dark"] {
   --ifm-background-color: #0d1117;
   --ifm-navbar-background-color: #081627;
 }
