@@ -48,6 +48,6 @@ We love open-source community
 
 Check out our [contributing docs](/Contributing/requirement) for contribution guidelines and dev environment setup
 
-### Platform Architecture
+<!-- ### Platform Architecture
 
-Fusion's platfrom architecture [Platform Architecture](/architecture)
+Fusion's platfrom architecture [Platform Architecture](/architecture) -->
