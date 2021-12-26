@@ -46,7 +46,7 @@ Check out our [deployment page](/Deployment/Req).
 
 We love open-source community
 
-Check out our [contributing docs](/Contributing/req) for contribution guidelines and dev environment setup
+Check out our [contributing docs](/Contributing/requirement) for contribution guidelines and dev environment setup
 
 ### Platform Architecture
 
