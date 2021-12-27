@@ -9,7 +9,7 @@ Fusion is an end to end open-source product analytics platfrom a better alternat
 
 These guides will help you setup, deploy and contribute to Fusion.
 
-![Fusion](https://raw.githubusercontent.com/fusion-hq/fusion/main/doc/fusion-dashboard-graphs.png "Fusion")
+![Fusion](/img/fusion-cover.png "Fusion")
 
 ## Why Fusion ?
 
